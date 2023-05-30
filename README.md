@@ -28,4 +28,4 @@ Author of NPM Package: **[Formify React](https://www.npmjs.com/package/formify-r
 
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=oscarkremer&show_icons=true&hide_border=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/gkhan205/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=oscarkremer)](https://github.com/oscarkremer/github-profile-trophy)
