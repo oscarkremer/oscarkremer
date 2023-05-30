@@ -9,7 +9,7 @@ Vist my **[Blog](https://medium.com/@ghazikhan205) - [YouTube](https://www.youtu
 Author of NPM Package: **[Formify React](https://www.npmjs.com/package/formify-react)**, **[CWG React Starter](https://github.com/gkhan205/cwg-react-starter)** & **[Slugifyme](https://www.npmjs.com/package/slugifyme)**
 
 [![Linkedin: Oscar](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/ghazi-khan/)
-[![GitHub Oscar](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/gkhan205)
+[![GitHub Oscar](https://img.shields.io/github/followers/oscarkremer?label=follow&style=social)](https://github.com/oscarkremer)
 
 ---
 
