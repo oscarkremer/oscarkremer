@@ -1,8 +1,8 @@
-![Banner Image](https://github.com/oscarkremer/oscarkremer/blob/master/images/banner.png)
+![Banner Image](https://github.com/oscarkremer/oscarkremer/blob/main/images/banner.png)
 
 ## Hi there 👋
 
-I am **Oscar Kremer** working as **Sr. Software Engineer @ Tech9**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, Angular, React Native, NodeJS, MongoDB, Mean Stack, RESTfull API’s, PSD to WordPress, PSD to HTML, User Experience, PHP, and WordPress.** Strong engineering professional with a Bachelor of Computer Application focused in UI UX Developer / Front End Developer / Web Designer from Sikkim Manipal University – Distance Education.
+My name is **Oscar Schmitt Kremer**. I am a **Sr. Data Scientist @ CI&T**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, Angular, React Native, NodeJS, MongoDB, Mean Stack, RESTfull API’s, PSD to WordPress, PSD to HTML, User Experience, PHP, and WordPress.** Strong engineering professional with a Bachelor of Computer Application focused in UI UX Developer / Front End Developer / Web Designer from Sikkim Manipal University – Distance Education.
 
 Vist my **[Blog](https://medium.com/@ghazikhan205) - [YouTube](https://www.youtube.com/channel/UCio7gIFilw6wsgbTZAVOBrg)**
 
