@@ -8,21 +8,18 @@ Vist my **[Blog](https://medium.com/@ghazikhan205) - [YouTube](https://www.youtu
 
 Author of NPM Package: **[Formify React](https://www.npmjs.com/package/formify-react)**, **[CWG React Starter](https://github.com/gkhan205/cwg-react-starter)** & **[Slugifyme](https://www.npmjs.com/package/slugifyme)**
 
-[![Linkedin: Ghazi](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/ghazi-khan/)
-[![GitHub Ghazi](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/gkhan205)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCio7gIFilw6wsgbTZAVOBrg?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCio7gIFilw6wsgbTZAVOBrg?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/codewithghazi?style=social)
+[![Linkedin: Oscar](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/ghazi-khan/)
+[![GitHub Oscar](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/gkhan205)
 
 ---
 
-- 🔭 I’m currently working as **Sr. Software Engineer @ Tech9**
+- 🔭 I’m currently working as **Sr. Data Scientist @ CI&T**
 - 🌱 I’m currently learning **Python - Blockchain**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 🤔 I’m looking for help with digital marketing to drive traffic to my blog
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **A.I**, **MLOps**, **Electronics**, **FPGA**, **Quantum Optics**, **Quantum Control** and **Quantum Information**.
 - 📫 How to reach me:
-  **[Twitter](https://twitter.com/codewithghazi), [Instagram](https://instagram.com/codewithghazi)**
+  **[Email](oscarkremer97@gmail.com), [Instagram](https://instagram.com/oscarskremer)**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarkremer&layout=compact&theme=dark&hide_border=true)
 
