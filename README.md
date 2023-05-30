@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/oscarkremer/oscarkremer/blob/master/image/banner.png)
+![Banner Image](https://github.com/oscarkremer/oscarkremer/blob/master/images/banner.png)
 
 ## Hi there 👋
 
