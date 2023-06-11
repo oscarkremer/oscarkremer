@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-My name is **Oscar Schmitt Kremer**. I am a **Sr. Data Scientist @ CI&T**. I am an Experienced **Senior Data Scientist**, skilled in **Python**, **Scala**, **Shell**, and **SQL**. Have experience with **MLOps**, **Deep Learning**, **Pyspark** and **Big Data Tools**. Also I have a Bachelor in Electrical Engineering and I am currently pursuing a Master Degree in photonics, quantum optics and optomechanics, which gave me a vast experience in electronic and low-level languages as C, C++ and also hardware description languages for real-time control and signal processing systems.
+My name is **Oscar Schmitt Kremer**. I am a **Sr. Data Scientist @ CI&T** and skilled in **Python**, **Scala**, **Shell**, and **SQL**. My main professional experiences include were with **MLOps**, **Deep Learning**, **Pyspark** and **Big Data Tools**. Also I have a Bachelor in Electrical Engineering and I am currently pursuing a Master Degree in photonics, quantum optics and optomechanics, which gave me a vast experience in electronic and low-level languages as C, C++ and also hardware description languages for real-time control and signal processing systems.
 
 [![Linkedin: Oscar](https://img.shields.io/badge/-Oscar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oscar-kremer/)](https://www.linkedin.com/in/oscar-kremer/)
 [![GitHub Oscar](https://img.shields.io/github/followers/oscarkremer?label=follow&style=social)](https://github.com/oscarkremer)
