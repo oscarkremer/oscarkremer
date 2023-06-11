@@ -19,5 +19,3 @@ My name is **Oscar Schmitt Kremer**. I am a **Sr. Data Scientist @ CI&T**. I am 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarkremer&layout=compact&theme=dark&hide_border=true)
 
 ![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=oscarkremer&show_icons=true&hide_border=true&theme=dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=oscarkremer&theme=onedark)](https://github.com/oscarkremer/github-profile-trophy)
